@@ -49,7 +49,7 @@ This is an early test build — if you hit an error or unexpected behavior:
 - Include your device's chipset/platform, the operation attempted, and the scatter/DA/auth files used
 
 ## Developers
-- **Main Developer:** Dev_Null10
+- **Main Developer:** @BeruCrypt00
 - **Co-Developer:** Shelby
 
 ## License
