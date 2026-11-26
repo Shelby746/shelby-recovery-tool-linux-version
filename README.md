@@ -1,5 +1,7 @@
 # Shelby Recovery Tool
 
+![Shelby Recovery Tool](screenshots/main-ui.png)
+
 **Version:** 1.0.0 (Trial / Testing Build)
 **Platform:** Linux x64
 
