@@ -1,9 +1,13 @@
-# Shelby Recovery Tool
+<div align="center">
 
-![Shelby Recovery Tool](screenshots/main-ui.png)
+# Shelby Recovery Tool - Linux Trial
+
+![Shelby Recovery Tool](main-ui.png)
 
 **Version:** 1.0.0 (Trial / Testing Build)
 **Platform:** Linux x64
+
+</div>
 
 A MediaTek-focused flashing and recovery utility — partition read/write, firmware flashing, scatter/preloader handling, and device detection via an SP Flash Tool–style backend, with Flashtool, ADB, Fastboot, and GSI Flash modes.
 
